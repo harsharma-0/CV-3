@@ -1,0 +1,23 @@
+.logo-image {
+  height: 100px;
+  width: 100px;
+  position: relative;
+  left: 50px;
+  z-index: 0;
+}
+
+.search-button {
+  width: 50%;
+}
+
+.nav-link:hover {
+  color: black;  
+}
+
+.btn {
+    width: 9.375rem;
+}
+
+.navigation-bar {
+   z-index: 1;
+}
